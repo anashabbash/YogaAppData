@@ -1,0 +1,54 @@
+			{
+			  "poses": [
+			    {
+			      "id": 1,
+			      "name": "Pose One",
+						"imageURL": "https://i.ndtvimg.com/i/2015-10/tadasana_625x350_81444284309.jpg",
+			      "level": "easy",
+			      "Description": {
+			        "name": "Mountain Pose",
+			        "desc": "This pose teaches one to stand with majestic steadiness like a mountain"
+			      }
+			    },
+			    {
+						"id": 2,
+			      "name": "Pose Two",
+						"imageURL": "https://i.ndtvimg.com/i/2015-10/vrikshasna_625x350_51444284336.jpg",
+			      "level": "easy",
+			      "Description": {
+			        "name": "Tree Pose",
+			        "desc": "This pose gives you a sense of grounding"
+			      }
+			    },
+			    {
+						"id": 3,
+			      "name": "Pose Three",
+						"imageURL": "https://i.ndtvimg.com/i/2015-10/adho-mukho_625x350_81444284366.jpg",
+			      "level": "Medium",
+			      "Description": {
+			        "name": "Downward Facing Dog Pose",
+			        "desc": "This pose stretches hamstrings, chest and lengthens the spine"
+			      }
+			    },
+					{
+						"id": 4,
+						"name": "Pose Four",
+						"imageURL": "https://i.ndtvimg.com/i/2015-10/trikoasana_625x350_81444284398.jpg",
+						"level": "Hard",
+						"Description": {
+							"name": "Triangle Pose",
+							"desc": "It stretches the legs and torso, mobilizes the hips and promotes deep breathing"
+						}
+					},
+					{
+						"id": 5,
+						"name": "Pose Five",
+						"imageURL": "https://i.ndtvimg.com/i/2015-10/chair-pose_625x350_71444284419.jpg",
+						"level": "Hard",
+						"Description": {
+							"name": "Chair Pose",
+							"desc": "An intensely powerful pose, this one strengthens the muscles of the legs and arms"
+						}
+					}
+			  ]
+			}
